@@ -1,0 +1,180 @@
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Desktop\Leigolandia\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\ProjetoLI4 - Sandra\Leigolandia\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

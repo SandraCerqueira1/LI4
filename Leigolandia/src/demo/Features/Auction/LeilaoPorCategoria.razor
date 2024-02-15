@@ -1,0 +1,71 @@
+﻿@page "/leilaoporcategoria/{nomeCategoria}"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@using DataLayer
+@using demo.Features.Shared
+@inject ILeilaoRepository leiloes
+@inject ICategoriasRepository categorias
+@inject EstadoSite estado
+
+
+<PageTitle>Leigolândia</PageTitle>
+
+<div class="pagina-principal">
+    <div class="barra-topo">
+        <BarraTopo />
+    </div>
+
+    <div class="pesquisa">
+        <input placeholder="Procure um leilão..." class="barra-pesquisa" />
+        <button class="botao"><img src="./images/lupa.png" /></button>
+    </div>
+
+    <div class="lista">
+
+        <PreviewLeilao LeiloesADecorrer="@LeiloesADecorrerPorCategoria" /> 
+
+
+
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string nomeCategoria { get; set; }
+
+    public List<LeilaoViewModel> LeiloesADecorrerPorCategoria { get; set; }
+
+
+    protected override async Task OnParametersSetAsync()
+    {
+        // Descodificar o valor do parâmetro
+        
+        Console.WriteLine("o nome da categoria é:" + nomeCategoria);
+        int idCategoria = await categorias.GetCategoryIdByName(nomeCategoria);
+
+        Console.WriteLine("o id da categoria é:" + idCategoria);
+        // Agora você pode usar 'categoriaDecodificada' conforme necessário
+
+        LeiloesADecorrerPorCategoria = await leiloes.GetLeiloesADecorrerComImagemPorCategoria(idCategoria);
+        StateHasChanged();
+
+        // Imprimir todas as propriedades de cada leilão
+        Console.WriteLine("Resultados dos leilões:");
+        foreach (var leilao in LeiloesADecorrerPorCategoria)
+        {
+            // Obtém todas as propriedades da classe LeilaoViewModel
+            var properties = typeof(LeilaoViewModel).GetProperties();
+
+            // Imprime os valores de todas as propriedades
+            foreach (var property in properties)
+            {
+                var value = property.GetValue(leilao);
+                Console.WriteLine($"{property.Name}: {value}");
+            }
+
+            // Adicione uma linha em branco entre os leilões para melhor legibilidade
+            Console.WriteLine();
+        }
+    }
+
+}

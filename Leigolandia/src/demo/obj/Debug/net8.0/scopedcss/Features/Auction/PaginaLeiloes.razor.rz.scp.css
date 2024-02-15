@@ -1,0 +1,53 @@
+body[b-r23gvntkvo] {
+    overflow-x: hidden;
+}
+
+.pagina-principal[b-r23gvntkvo] {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.barra-topo[b-r23gvntkvo] {
+    background: #0D3B66;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.pesquisa[b-r23gvntkvo] {
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: -1rem;
+}
+
+.botao[b-r23gvntkvo] {
+    width: 3rem;
+    background: #023e8a;
+    border: none;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.barra-pesquisa[b-r23gvntkvo] {
+    width: 25rem;
+    height: 2rem;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-color: black;
+    border-right: none;
+}
+
+.barra-pesquisa[b-r23gvntkvo]::placeholder {
+    padding-left: 1rem;
+}
+
+.lista[b-r23gvntkvo] {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}

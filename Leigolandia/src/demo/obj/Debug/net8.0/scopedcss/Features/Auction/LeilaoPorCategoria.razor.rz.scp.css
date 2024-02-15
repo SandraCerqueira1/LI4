@@ -1,0 +1,67 @@
+body[b-1is5byfdqf] {
+    overflow-x: hidden;
+}
+
+.pagina-principal[b-1is5byfdqf] {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.barra-topo[b-1is5byfdqf] {
+    background: #0D3B66;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.pesquisa[b-1is5byfdqf] {
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: -1rem;
+}
+
+.botao[b-1is5byfdqf] {
+    width: 3rem;
+    background: #023e8a;
+    border: none;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.barra-pesquisa[b-1is5byfdqf] {
+    width: 25rem;
+    height: 2rem;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-color: black;
+    border-right: none;
+}
+
+.barra-pesquisa[b-1is5byfdqf]::placeholder {
+    padding-left: 1rem;
+}
+
+.lista[b-1is5byfdqf] {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.bloco[b-1is5byfdqf] {
+    display: flex;
+    margin-top: 4rem;
+    align-items: center;
+}
+
+.bloco > *[b-1is5byfdqf] {
+    margin-right: 6rem;
+}
+
+.bloco > *:last-child[b-1is5byfdqf] {
+    margin-right: 0;
+}

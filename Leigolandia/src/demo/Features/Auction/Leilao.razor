@@ -1,0 +1,227 @@
+﻿@page "/leilao/{leilaoId:int}"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@using DataLayer
+@using demo.Features.Shared
+@using Microsoft.AspNetCore.Components
+@inject ILeilaoRepository leilao
+@inject ILegoRepository lego
+@inject IUtilizadorRepository user
+@inject ILicitacaoRepository licitar
+@inject EstadoSite EstadoSite;
+
+<PageTitle>Leigolândia</PageTitle>
+
+<body>
+    <div class="pagina-principal">
+        <div class="barra-topo">
+            <BarraTopo />
+        </div>
+
+        <div class="leilao">
+            @if (Leiloes != null && Legos != null)
+            {
+                <div class="topo">
+                    <img src="@Legos.Imagem" class="imagem-lego" />
+
+                    <div class="informacoes">
+                        <div class="a">
+                            <span class="titulo">@Leiloes?.Titulo</span>
+                        </div>
+                        <div class="a preco-base">
+                            <span class="geral-info">
+                                Preço Base:
+                                <span class="valor">@Leiloes?.PrecoBase</span>
+                                <span class="bold">€</span>
+                            </span>
+                        </div>
+                        <div class="a licitacao-atual">
+                            <span class="geral-info">
+                                Licitação Atual:
+                                <span class="valor">@Leiloes?.PrecoAtual</span>
+                                <span class="bold">€</span>
+                            </span>
+                        </div>
+
+                        <div class="licitar">
+                            <form @onsubmit="HandleSubmit" method="post" class="formulario">
+                                <input type="text" class="valor-licitacao" placeholder="Insira o valor..." @bind="ValorLicitacao" />
+                                <span class="erro">@MensagemSucesso</span>
+                                <span class="erro">@MensagemErro</span>
+                                <button type="submit" class="botao-licitar">Licitar</button>
+                            </form>
+                        </div>
+
+                        <div class="a tempo-restante">
+                            <span class="geral-info">
+                                @CalcularTempoRestante(Leiloes.DataFiM)
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (Legos != null)
+            {
+                <div class="informacoes-adicionais">
+                    <span class="descricao-titulo b">Descrição: </span>
+                    <span class="descricao b">@Legos.Descricao</span>
+
+                    <div class="bloco">
+                        <div class="bloco1">
+                            <span class="b">
+                                <span class="numero-serie c">Número de Série:</span>
+                                <span class="conteudo">@Legos.SerialNumber</span>
+                            </span>
+                            <span class="b">
+                                <span class="estado c">Estado:</span>
+                                <span class="conteudo">@Legos.Estado</span>
+                            </span>
+                            <span class="b">
+                                <span class="ano-lancamento c">Ano de Lançamento:</span>
+                                <span class="conteudo">@Legos.AnoDeLancamento</span>
+                            </span>
+                            <span class="b">
+                                <span class="certificacao c">Certificação:</span>
+                                <span class="conteudo">@Legos.Certificacao</span>
+                            </span>
+                        </div>
+
+                        <div class="bloco2">
+                            <span class="b">
+                                <span class="idade-recomendada c">Idade Recomendada:</span>
+                                <span class="conteudo">@Legos.IdadeRecomendada</span>
+                            </span>
+                            <span class="b">
+                                <span class="numero-pecas c">Número de Peças:</span>
+                                <span class="conteudo">@Legos.NumeroDePecas</span>
+                            </span>
+                            <span class="b">
+                                <span class="numero-minifiguras c">Número de Minifiguras:</span>
+                                <span class="conteudo">@Legos.NumeroDeMiniFiguras</span>
+                            </span>
+                            <span class="b">
+                                <span class="dimensoes c">Dimensões:</span>
+                                <span class="conteudo">@Legos.Dimensoes</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                @if (Leiloes != null && Utilizador != null)
+                {
+                    @if (Leiloes?.VendedorId == Utilizador.Id || Utilizador.IsAdministrador == 1)
+                    {
+                        <div class="but-eliminar">
+                            <button class="eliminar" @onclick="EliminarLeilao">Eliminar</button>
+                        </div>
+                    }
+                }
+            }
+        </div>
+
+
+        <div class="barra-fundo">
+            <BarraFundo />
+        </div>
+    </div>
+</body>
+
+
+@code {
+    [Parameter]
+    public int leilaoId { get; set; }
+
+
+    private DataLayer.Leilao Leiloes { get; set; } = null;
+    private DataLayer.Lego Legos { get; set; } = null;
+    private Utilizador Utilizador { get; set; }
+
+    private float ValorLicitacao;
+    private string MensagemSucesso { get; set; }
+    private string MensagemErro { get; set; }
+
+    public Leilao() { }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Utilizador = await user.GetUtilizadorByUsername(EstadoSite.loged_user);
+
+        Leiloes = await leilao.GetLeilaoById(leilaoId);
+
+        int legoId = await leilao.GetLegoIdByLeilao(leilaoId);
+
+        Legos = await lego.GetLegoById(legoId);
+
+    }
+
+    private string CalcularTempoRestante(DateTime dataFim)
+    {
+        // Obtém a diferença entre a data de término e a data atual
+        TimeSpan diferenca = dataFim - DateTime.Now;
+
+        // Se a diferença for negativa, o leilão já terminou
+        if (diferenca.TotalSeconds < 0)
+        {
+            return "Leilão encerrado";
+        }
+
+        // Extrai os componentes de tempo da diferença
+        int dias = (int)diferenca.TotalDays;
+        int horas = diferenca.Hours;
+        int minutos = diferenca.Minutes;
+
+        // Formata a string de tempo restante
+        return $"{dias} dias, {horas} horas, {minutos} minutos";
+
+
+    }
+    private async Task HandleSubmit()
+    {
+        string userName = EstadoSite.loged_user;
+        int userId = await user.GetIdByUsername(userName);
+
+        int vendedorId = await leilao.GetVendedorIdById(leilaoId);
+
+        if (userId != vendedorId)
+        {
+            if (ValorLicitacao > Leiloes.PrecoAtual)
+            {
+                bool sucesso = await licitar.UpsertLicitacao(ValorLicitacao, userId, leilaoId);
+                bool sucesso2 = await leilao.UpdatePrecoAtual(leilaoId, ValorLicitacao);
+
+                if (sucesso && sucesso2)
+                {
+                    NavigationManager.NavigateTo($"/leilao/{Leiloes.Id}", forceLoad: true);
+                    MensagemSucesso = "Licitacao adicionada com sucesso";
+                }
+            }
+            else
+            {
+                MensagemErro = "Licitação inválida";
+            }
+        }
+        else
+        {
+            MensagemErro = "Não pode licitar no próprio leilão";
+        }
+    }
+
+    private async Task EliminarLeilao()
+    {
+        bool sucesso = await licitar.DeleteLicitacoesByLeilaoId(leilaoId);
+
+        if (sucesso)
+        {
+            bool sucesso2 = await leilao.DeleteLeilaoById(leilaoId);
+
+            if (sucesso2)
+            {
+
+                NavigationManager.NavigateTo("/paginaleiloes");
+            }
+            
+        }
+        
+    }
+
+}

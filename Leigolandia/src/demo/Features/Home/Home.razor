@@ -1,0 +1,82 @@
+﻿@page "/home"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@using DataLayer
+@using demo.Features.Shared
+@using demo.Features.Login
+
+
+@inject ILeilaoRepository leiloes
+
+<PageTitle>Leigolândia</PageTitle>
+
+<head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital@1&family=Major+Mono+Display&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="pagina-principal">
+        <div class="barra-topo">
+            <BarraTopo />
+        </div>
+
+        <img src="./images/fundo-principal.png" class="fundo-imagem" />
+
+        <div class="texto-principal">
+            <span class="mensagem" id="mensagem-principal">
+                UMA CAIXA, UM MUNDO DE POSSIBILIDADES
+            </span>
+            <br />
+            <span class="mensagem" id="mensagem-secundaria">
+                Encontre o lego ideal para si. Visite os nossos
+                <a href="/paginaleiloes" id="link-visite">leilões</a>
+            </span>
+        </div>
+
+        <div class="barra-fundo">
+            <BarraFundo />
+        </div>
+    </div>
+
+    <div class="divisao"></div>
+
+    <div class="texto-leiloes-container">
+        <div class="container-texto">
+            <span id="texto-leiloes">Explore os nossos leilões</span>
+        </div>
+        <div class="container-texto-adicional">
+            <span id="texto-leiloes-adicional">
+                Todos os dias novos leilões são criados. Não perca a sua oportunidade e descubra o que temos para oferecer.
+                <br />
+                Clique <NavLink href="/paginaleiloes">aqui</NavLink> para ver o nosso catálogo.
+            </span>
+        </div>
+    </div>
+
+    <div class="pagina-leiloes">
+
+        <PreviewLeilao LeiloesADecorrer="@LeiloesADecorrer" />
+
+    </div>
+</body>
+
+@code {
+    List<LeilaoViewModel> LeiloesADecorrer;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Limitando a quantidade de leilões a serem exibidos para 3
+        LeiloesADecorrer = (await leiloes.GetLeiloesADecorrerComImagem()).Take(3).ToList();
+    }
+}

@@ -1,0 +1,35 @@
+﻿@* @inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@using DataLayer
+@inject ILeilaoRepository leiloes
+@inject Leilao leilao
+
+<div class="preview-leilao">
+    <img class="imagem-leilao" src="./images/globo.jpg" />
+
+    <div class="descricao-leilao">
+        <div id="bloco-vertical">
+            <span class="nome-produto">@leilao.Titulo</span>
+
+            <span class="licitacao-atual">
+                Licitação Atual:
+                <span class="bold">@leilao.PrecoAtual</span>
+                <span class="bold">€</span>
+            </span>
+        </div>
+
+        <span class="tempo-restante">
+            Tempo restante:
+            <span class="bold">@CalculateTempoRestante(leilao.DataInicio, leilao.DataFiM)</span>
+        </span>
+    </div>
+</div>
+
+@code {
+    private string CalculateTempoRestante(DateTime dataInicio, DateTime dataFim)
+    {
+        TimeSpan tempoRestante = dataFim - DateTime.Now;
+        return $"{tempoRestante.TotalMinutes:N0} min";
+    }
+}
+ *@

@@ -1,0 +1,708 @@
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-main\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\sandr\Downloads\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\João Rodrigues\Desktop\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\LI4Projeto\sandra (1)\LI4-Mirandao\LI4-Mirandao\LI4-main\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sandr\Downloads\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\diogo\Downloads\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\sandr\Downloads\sandraParaJuntar\sandraParaJuntar\LeigolandiaAtual\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\LeilaoPorCategoria.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\LeilaoPorCategoria.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\sandr\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.exe
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\LeilaoPorCategoria.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\BelasArtes\demo\obj\Debug\net8.0\ref\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\appsettings.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\demo.staticwebassets.runtime.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\demo.exe
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\demo.deps.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\Dapper.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\DataLayer.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.csproj.AssemblyReference.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.RazorAssemblyInfo.cs
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets\msbuild.build.demo.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.demo.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.demo.props
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Auction\CriarLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Auction\Leilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Auction\LeilaoPorCategoria.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Auction\PaginaLeiloes.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Home\Home.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Login\PaginaLogin.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Perfil\Perfil.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Register\PaginaRegistar.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraFundo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Shared\BarraTopo.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\Features\Shared\PreviewLeilao.razor.rz.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\bundle\demo.styles.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\scopedcss\projectbundle\demo.bundle.scp.css
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.csproj.CopyComplete
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\refint\demo.dll
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.pdb
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+C:\Users\João Rodrigues\Desktop\LeigolandiaAtual\src\LEIgolandia\demo\obj\Debug\net8.0\ref\demo.dll

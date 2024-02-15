@@ -1,0 +1,116 @@
+body[b-zu8gpqe5ks] {
+    overflow-x: hidden;
+}
+
+.pagina-principal[b-zu8gpqe5ks] {
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.barra-topo[b-zu8gpqe5ks] {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.fundo-imagem[b-zu8gpqe5ks] {
+    margin-top: 10rem;
+    width: 100vw;
+    height: 125vh;
+    display: block;
+}
+
+.texto-principal[b-zu8gpqe5ks] {
+    position: absolute;
+    top: 0;
+    margin-top: 12%;
+    margin-left: 21%;
+    text-align: center;
+}
+
+.mensagem[b-zu8gpqe5ks] {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    display: inline-block;
+    font-size: 2.3rem;
+}
+
+#mensagem-secundaria[b-zu8gpqe5ks] {
+    font-size: 1.2rem;
+}
+
+#link-visite[b-zu8gpqe5ks] {
+    color: white;
+    text-decoration: underline;
+    transition: font-size 0.3s ease;
+}
+
+#link-visite:hover[b-zu8gpqe5ks] {
+    font-size: 1.4rem;
+}
+
+.barra-fundo[b-zu8gpqe5ks] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.divisao[b-zu8gpqe5ks] {
+    background: #14213d;
+    width: 100%;
+    height: 0.2rem;
+}
+
+.texto-leiloes-container[b-zu8gpqe5ks] {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-texto[b-zu8gpqe5ks] {
+    width: 100%;
+    height: 5rem;
+    background: #0D3B66;
+    display: flex;
+    align-items: center;
+}
+
+#texto-leiloes[b-zu8gpqe5ks] {
+    color: white;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2rem;
+}
+
+.container-texto-adicional[b-zu8gpqe5ks] {
+    display: flex;
+    justify-content: center;
+}
+
+#texto-leiloes-adicional[b-zu8gpqe5ks] {
+    font-size: 1.2rem;
+    margin-left: 2rem;
+    margin-top: 2.5rem;
+}
+
+.pagina-leiloes[b-zu8gpqe5ks] {
+    overflow: hidden;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+    margin-bottom: 11rem;
+}
+
+.pagina-leiloes > *[b-zu8gpqe5ks] {
+    margin-right: 6rem;
+}
+
+.pagina-leiloes > *:last-child[b-zu8gpqe5ks] {
+    margin-right: 0;
+}

@@ -1,0 +1,229 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\demo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\demo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\a594ddef-5f43-4f4f-8385-f19fd48450c1_Ahsoka_Jedi_Shuttle.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\a594ddef-5f43-4f4f-8385-f19fd48450c1_Ahsoka_Jedi_Shuttle.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\desktop.ini",
+      "PackagePath": "staticwebassets\\Media\\uploads\\desktop.ini"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod1.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod1.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod10.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod10.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod11.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod11.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod12.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod12.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod13.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod13.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod14.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod14.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod15.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod15.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod16.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod16.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod17.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod17.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod18.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod18.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod19.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod19.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod2.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod2.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod3.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod3.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod4.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod4.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod5.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod5.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod6.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod6.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod7.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod7.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod8.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod8.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\Media\\uploads\\prod9.png",
+      "PackagePath": "staticwebassets\\Media\\uploads\\prod9.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\auction.png",
+      "PackagePath": "staticwebassets\\auction.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\bid.png",
+      "PackagePath": "staticwebassets\\bid.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\cima-esquerda.png",
+      "PackagePath": "staticwebassets\\images\\cima-esquerda.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\darth-vader.jfif",
+      "PackagePath": "staticwebassets\\images\\darth-vader.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\do-utilizador.png",
+      "PackagePath": "staticwebassets\\images\\do-utilizador.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\email-clean.png",
+      "PackagePath": "staticwebassets\\images\\email-clean.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\email.png",
+      "PackagePath": "staticwebassets\\images\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\facebook-clean.png",
+      "PackagePath": "staticwebassets\\images\\facebook-clean.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\fundo-lego.jpg",
+      "PackagePath": "staticwebassets\\images\\fundo-lego.jpg"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\fundo-principal.png",
+      "PackagePath": "staticwebassets\\images\\fundo-principal.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\globo.jfif",
+      "PackagePath": "staticwebassets\\images\\globo.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\globo.jpg",
+      "PackagePath": "staticwebassets\\images\\globo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\instagram-clean.png",
+      "PackagePath": "staticwebassets\\images\\instagram-clean.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\lamborgini.jfif",
+      "PackagePath": "staticwebassets\\images\\lamborgini.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\lego.png",
+      "PackagePath": "staticwebassets\\images\\lego.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\login-password.png",
+      "PackagePath": "staticwebassets\\images\\login-password.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\login-user.png",
+      "PackagePath": "staticwebassets\\images\\login-user.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\lupa.png",
+      "PackagePath": "staticwebassets\\images\\lupa.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\ninja.jfif",
+      "PackagePath": "staticwebassets\\images\\ninja.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\perfil.png",
+      "PackagePath": "staticwebassets\\images\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\perfil2.png",
+      "PackagePath": "staticwebassets\\images\\perfil2.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\r2d2.jfif",
+      "PackagePath": "staticwebassets\\images\\r2d2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\rich.png",
+      "PackagePath": "staticwebassets\\images\\rich.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\rua.jfif",
+      "PackagePath": "staticwebassets\\images\\rua.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\scooter.jfif",
+      "PackagePath": "staticwebassets\\images\\scooter.jfif"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\images\\youtube-clean.png",
+      "PackagePath": "staticwebassets\\images\\youtube-clean.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\truckLogo.png",
+      "PackagePath": "staticwebassets\\truckLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\João Rodrigues\\Desktop\\LeigolandiaAtual\\src\\LEIgolandia\\demo\\wwwroot\\users.png",
+      "PackagePath": "staticwebassets\\users.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.demo.props",
+      "PackagePath": "build\\demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.demo.props",
+      "PackagePath": "buildMultiTargeting\\demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.demo.props",
+      "PackagePath": "buildTransitive\\demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

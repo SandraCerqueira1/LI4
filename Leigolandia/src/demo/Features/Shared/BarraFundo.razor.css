@@ -1,0 +1,61 @@
+﻿.barra-fundo {
+    padding-bottom: 0.3rem;
+    padding-top: 0.3rem;
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    background-color: #0D3B66;
+}
+
+.redes-sociais {
+    margin-left: 1.8rem;
+}
+
+#icone-facebook {
+    margin-left: 0.8rem;
+}
+
+#icone-instagram {
+    margin-left: 0.5rem;
+}
+
+#icone-youtube {
+    margin-left: 0.5rem;
+}
+
+.texto {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+}
+
+.link {
+    text-decoration: none;
+}
+
+#icone-email {
+    margin-right: 0.5rem;
+}
+
+#visite {
+
+}
+
+.apoio-cliente {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.contacto-email {
+    display: flex;
+    align-items: center;
+}
+
+#contacte {
+    margin-right: 1rem;
+}
+
+#email {
+    margin-right: 2rem;
+}

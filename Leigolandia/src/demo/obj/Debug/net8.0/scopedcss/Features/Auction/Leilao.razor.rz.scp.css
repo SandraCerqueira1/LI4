@@ -1,0 +1,159 @@
+body[b-afxin07gpk] {
+    overflow: hidden;
+}
+
+.pagina-principal[b-afxin07gpk] {
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.barra-topo[b-afxin07gpk] {
+    background: #0D3B66;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.barra-fundo[b-afxin07gpk] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.leilao[b-afxin07gpk] {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 2rem;
+}
+
+.topo[b-afxin07gpk] {
+    display: flex;
+}
+
+.imagem-lego[b-afxin07gpk] {
+    margin-left: 18rem;
+    margin-top: 6rem;
+    width: 23%;
+    height: auto;
+    border-radius: 15px;
+    border: solid;
+    border-color: black;
+}
+
+.informacoes[b-afxin07gpk] {
+    margin-top: 6rem;
+}
+
+.informacoes-adicionais[b-afxin07gpk] {
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+
+.info[b-afxin07gpk] {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo[b-afxin07gpk] {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-left: 3rem;
+    text-decoration: underline;
+}
+
+.valor[b-afxin07gpk] {
+    font-weight: bold;
+}
+
+.geral-info[b-afxin07gpk] {
+    font-size: 1.2rem;
+    margin-left: 3rem;
+}
+
+.preco-base[b-afxin07gpk] {
+    margin-top: 2rem;
+}
+
+.licitacao-atual[b-afxin07gpk] {
+    margin-top: 0.7rem;
+}
+
+.licitar[b-afxin07gpk] {
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.valor-licitacao[b-afxin07gpk] {
+    border-radius: 10px;
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+}
+
+    .valor-licitacao[b-afxin07gpk]::placeholder {
+        padding-left: 0.5rem;
+    }
+
+.botao-licitar[b-afxin07gpk] {
+    margin-left: 1rem;
+    border-radius: 10px;
+    background: #0D3B66;
+    color: white;
+    font-weight: bold;
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+}
+
+.tempo-restante[b-afxin07gpk] {
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.b[b-afxin07gpk] {
+    font-size: 1.2rem;
+    margin-top: 0.3rem;
+}
+
+.descricao-titulo[b-afxin07gpk] {
+    font-weight: bold;
+}
+
+.c[b-afxin07gpk] {
+    font-weight: bold;
+}
+
+.bloco[b-afxin07gpk] {
+    margin-top: 1rem;
+    margin-left: 13rem;
+    display: flex;
+}
+
+.bloco1[b-afxin07gpk] {
+    display: flex;
+    flex-direction: column;
+}
+
+.bloco2[b-afxin07gpk] {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15rem;
+}
+
+.but-eliminar[b-afxin07gpk] {
+    margin-left: auto;
+    margin-right: 12rem;
+}
+
+.eliminar[b-afxin07gpk] {
+    border: none;
+    background: orange;
+    color: white;
+    border-radius: 15px;
+    padding: 0.5rem 0.7rem 0.5rem 0.7rem;
+}

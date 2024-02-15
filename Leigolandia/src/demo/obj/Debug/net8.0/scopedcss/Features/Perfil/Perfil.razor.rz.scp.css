@@ -1,0 +1,362 @@
+.pagina[b-m802a0h3ku] {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.barra-topo[b-m802a0h3ku] {
+    background: #0D3B66;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.perfil[b-m802a0h3ku] {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.barra-lateral[b-m802a0h3ku] {
+    width: 20%;
+    height: 100%;
+    background: #0D3B66;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagem-perfil[b-m802a0h3ku] {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 1rem;
+}
+
+#n[b-m802a0h3ku] {
+    margin-top: 0.3rem;
+}
+
+#nom[b-m802a0h3ku] {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.cont[b-m802a0h3ku] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lista-info[b-m802a0h3ku] {
+    width: 100%;
+    height: 100%;
+    margin-top: 3.5rem;
+}
+
+.opcao[b-m802a0h3ku] {
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1.3rem;
+}
+
+#informacoes-titulo[b-m802a0h3ku] {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.last-options[b-m802a0h3ku] {
+    margin-top: auto;
+    margin-bottom: 1.2rem;
+    display: flex;
+    font-size: 1.05rem;
+}
+
+#terminar[b-m802a0h3ku] {
+    margin-left: 0.8rem;
+}
+
+#eliminar[b-m802a0h3ku] {
+    margin-right: 0.8rem;
+}
+
+/* ------------ Dropdown Menu ------------------------*/
+
+#historicoLeiloes-titulo[b-m802a0h3ku] {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.primary-navigation[b-m802a0h3ku] {
+    display: block;
+    margin-top: 1rem;
+}
+
+.primary-navigation ul[b-m802a0h3ku] {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.primary-navigation ul li[b-m802a0h3ku] {
+     list-style: none;
+     display: inline-block;
+     position: relative;
+     text-decoration: none;
+     font-family: 'Montserrat', sans-serif;
+     
+     position: relative;
+ }
+
+.primary-navigation ul li ul span[b-m802a0h3ku] {
+    color: black;
+}
+
+.primary-navigation li:hover[b-m802a0h3ku] {
+    cursor: pointer;
+    }
+
+.primary-navigation ul li ul[b-m802a0h3ku] {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    padding-left: 0;
+    left: 100%;
+    top: 0;
+    background: white;
+    transition: opacity 0.3s ease;
+    padding: 0 30px;
+}
+
+.primary-navigation ul li:hover > ul[b-m802a0h3ku],
+.primary-navigation ul li ul:hover[b-m802a0h3ku] {
+     visibility: visible;
+     opacity: 1;
+     display: block;
+     min-width: 250px;
+     text-align: left;
+     padding-top: 20px;
+     box-shadow: 0px 3px 5px -1px #ccc;
+ }      
+
+.primary-navigation ul li ul li[b-m802a0h3ku] {
+      clear: both;
+      width: 100%;
+      text-align: left;
+      margin-bottom: 20px;
+      border-style: none;
+ }
+
+.primary-navigation ul li ul li span:hover[b-m802a0h3ku] {
+      padding-left: 10px;
+      border-left: 2px solid black;
+      transition: all 0.3s ease;
+}
+
+.primary-navigation ul li ul li span[b-m802a0h3ku] {
+     transition: all 0.5s ease;
+     text-decoration: none;
+}
+
+/* ------------ Informações Pessoais -----------------*/
+
+.info-pess-item[b-m802a0h3ku] {
+    font-size: 1.2rem;
+}
+
+.thick[b-m802a0h3ku] {
+    font-weight: bold;
+    color: #0D3B66;
+}
+
+.frase[b-m802a0h3ku] {
+    font-weight: bold;
+    color: #0D3B66;
+    font-size: 1.5rem;
+    margin-left: 5rem;
+}
+
+.frase-container[b-m802a0h3ku] {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+#pess[b-m802a0h3ku] {
+    margin-top: 5rem;
+    font-weight: bold;
+    color: #0D3B66;
+    font-size: 1.5rem;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+}
+
+.info-pess-item[b-m802a0h3ku] {
+    margin-left: 6rem;
+}
+
+.cont2[b-m802a0h3ku] {
+    display: flex;
+}
+
+#nome[b-m802a0h3ku] {
+    margin-right: 7rem;
+}
+
+#telemovel[b-m802a0h3ku] {
+    margin-right: 4rem;
+}
+
+#nif[b-m802a0h3ku] {
+    margin-right: 7.5rem;
+}
+
+.bots[b-m802a0h3ku] {
+    margin-left: 3rem;
+    display: flex;
+}
+
+.but[b-m802a0h3ku] {
+    border-radius: 15px;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    color: white;
+    background: orange;
+    border: none;
+    margin-left: 1rem;
+}
+
+.bot-terminar[b-m802a0h3ku] {
+    border: none;
+    background: #0D3B66;
+    color: white;
+}
+
+.editavel[b-m802a0h3ku] {
+    border-radius: 10px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    height: 1.8rem;
+}
+
+/* ------------ Estatisticas -----------------*/
+
+#estatisticas[b-m802a0h3ku] {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.bloco[b-m802a0h3ku] {
+    background: #edede9;
+    width: 25rem;
+    height: 25rem;
+    margin-top: 8rem;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#bloco1[b-m802a0h3ku] {
+    margin-left: 7rem;
+}
+
+#bloco2[b-m802a0h3ku] {
+    margin-left: 10rem;
+}
+
+.topo[b-m802a0h3ku] {
+    width: 100%;
+    height: 19%;
+    background: #0D3B66;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.titulo-bloco[b-m802a0h3ku] {
+    font-size: 1.5rem;
+    font-weight: 650;
+}
+
+.info-estatisticas[b-m802a0h3ku] {
+    width: 100%;
+    height: 100%;
+}
+
+.parte1[b-m802a0h3ku] {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2.5rem;
+    margin-left: 3rem;
+}
+
+.parte2[b-m802a0h3ku] {
+    margin-left: 3rem;
+}
+
+.titulo-estatisticas-first[b-m802a0h3ku] {
+    display: block;
+    margin-top: 2.7rem;
+}
+
+.titulo-estatisticas-second[b-m802a0h3ku] {
+    display: block;
+    margin-top: 1rem;
+}
+
+.titulo-estatisticas[b-m802a0h3ku] {
+    font-size: 1.2rem;
+    font-weight: 550;
+    display: block;
+}
+
+.estat-conteudo[b-m802a0h3ku] {
+    font-weight: 475;
+}
+
+/* ------------------------ Os meus leiloes ------------------------ */
+
+.lista[b-m802a0h3ku] {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+    margin-left: 7.5rem;
+}
+
+/* --------------------- Categoria ----------------------*/
+
+.formulario[b-m802a0h3ku] {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10rem;
+    margin-top: 10rem;
+}
+
+.co[b-m802a0h3ku] {
+    display: flex;
+    margin-top: 1.5rem;
+}
+
+.t[b-m802a0h3ku] {
+    font-size: 1.3rem;
+}
+
+.valor-categoria[b-m802a0h3ku] {
+    border-radius: 10px;
+}
+
+.botao-licitar[b-m802a0h3ku] {
+    margin-left: 2rem;
+    border-radius: 15px;
+    border: none;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    padding: 0.35rem 0.8rem 0.35rem 0.8rem;
+}

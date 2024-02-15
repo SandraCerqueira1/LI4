@@ -1,0 +1,159 @@
+﻿body {
+    overflow: hidden;
+}
+
+.pagina-principal {
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.barra-topo {
+    background: #0D3B66;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.barra-fundo {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.leilao {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    top: 2rem;
+}
+
+.topo {
+    display: flex;
+}
+
+.imagem-lego {
+    margin-left: 18rem;
+    margin-top: 6rem;
+    width: 23%;
+    height: auto;
+    border-radius: 15px;
+    border: solid;
+    border-color: black;
+}
+
+.informacoes {
+    margin-top: 6rem;
+}
+
+.informacoes-adicionais {
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-left: 3rem;
+    text-decoration: underline;
+}
+
+.valor {
+    font-weight: bold;
+}
+
+.geral-info {
+    font-size: 1.2rem;
+    margin-left: 3rem;
+}
+
+.preco-base {
+    margin-top: 2rem;
+}
+
+.licitacao-atual {
+    margin-top: 0.7rem;
+}
+
+.licitar {
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.valor-licitacao {
+    border-radius: 10px;
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+}
+
+    .valor-licitacao::placeholder {
+        padding-left: 0.5rem;
+    }
+
+.botao-licitar {
+    margin-left: 1rem;
+    border-radius: 10px;
+    background: #0D3B66;
+    color: white;
+    font-weight: bold;
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+}
+
+.tempo-restante {
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.b {
+    font-size: 1.2rem;
+    margin-top: 0.3rem;
+}
+
+.descricao-titulo {
+    font-weight: bold;
+}
+
+.c {
+    font-weight: bold;
+}
+
+.bloco {
+    margin-top: 1rem;
+    margin-left: 13rem;
+    display: flex;
+}
+
+.bloco1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.bloco2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15rem;
+}
+
+.but-eliminar {
+    margin-left: auto;
+    margin-right: 12rem;
+}
+
+.eliminar {
+    border: none;
+    background: orange;
+    color: white;
+    border-radius: 15px;
+    padding: 0.5rem 0.7rem 0.5rem 0.7rem;
+}

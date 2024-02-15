@@ -1,0 +1,341 @@
+﻿@page "/criarleilao"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@inject IUtilizadorRepository utilizadores
+@inject ILeilaoRepository leiloes
+@inject ILegoRepository lego
+@inject EstadoSite EstadoSite;
+@inject ICategoriasRepository categoria
+@using System.Globalization;
+@using Microsoft.AspNetCore.Http;
+@using System.IO;
+@inject IWebHostEnvironment WebHostEnvironment
+@using DataLayer
+@using demo.Features.Shared
+@using Microsoft.AspNetCore.Components.Forms
+
+
+<PageTitle>Leigolândia</PageTitle>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+<body>
+    <div class="pagina-principal">
+        <img src="./images/fundo-lego.jpg" class="imagem" />
+
+        <div class="barra-topo">
+            <BarraTopo />
+        </div>
+
+        <div class="fundo">
+            <div class="barra">
+                <span class="titulo">Criar um Leilão</span>
+            </div>
+
+            <div class="conteudo">
+
+                <div class="dados">
+
+                    <div class="titulo-medio-container">
+                        <span class="titulo-medio">Informações do Leilão</span>
+                    </div>
+
+                    <form @onsubmit="HandleSubmit" id="regForm" action="">
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Titulo:</span>  @* Leilao *@
+                            <input placeholder="Insira o título do leilão..." required @bind="Titulo" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Descricao:</span>  @* Leilao: NOTA NO FRONT END ISTO NAO APARECE EM LADO NENHUM *@
+                            <input placeholder="Insira a descrição do leilão" required @bind="Descricao" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Preço Base:</span>  @* Leilao *@
+                            <input placeholder="Insira o preço base..." required @bind="PrecoBase" />
+                        </div>
+                      
+                        <div class="bocado">
+                            <span class="mini-titulo">Data Término:</span>  @* Leilao *@
+                            <input type="datetime-local" placeholder="Insira a data de término (ex:2024-01-24 20:00:00)..." required @bind="DataTermino" />
+                        </div>
+
+
+                        @* <div class="linhas"></div> *@
+
+                        <div class="titulo-medio-container">
+                            <span class="titulo-medio">Informações Obrigatórias do Lego</span>
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Nome:</span>  @* Lego *@
+                            <input placeholder="Insira o nome do lego..." required @bind="Nome" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Descricao do Lego:</span>  @* Leilao: NOTA NO FRONT END ISTO NAO APARECE EM LADO NENHUM *@
+                            <input placeholder="Insira a descrição do Lego..." required @bind="DescricaoLego" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Número de Série:</span>   @* Lego *@
+                            <input placeholder="Insira o número de série do Lego..." required @bind="NumeroSerie" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Ano de Lançamento:</span> @* Lego *@
+                            <input placeholder="Insira o ano de lançamento do Lego (ex:2024)..." required @bind="AnoLancamento" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Número de Peças:</span> @* Lego *@
+                            <input placeholder="Insira o número de peças do Lego..." required @bind="NumeroPecas" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Número de Minifiguras:</span> @* Lego *@
+                            <input placeholder="Insira o número de minifiguras do Lego..." required @bind="NumeroMinifiguras" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Idade Recomendada:</span> @* Lego *@
+                            <input placeholder="Insira a idade recomendada do Lego..." required @bind="IdadeRecomendada" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Estado:</span> @* Lego *@
+                            <input placeholder="Indique o estado do Lego..." required @bind="Estado" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Imagem:</span> @* Lego *@
+                            @* <input placeholder="Insira uma imagem do Lego..." required @bind="Imagem" />*@
+                            <InputFile OnChange="HandleFileUpload" />
+                        </div>
+
+                        @* <div class="linhas"></div> *@
+
+                        <div class="titulo-medio-container">
+                            <span class="titulo-medio">Informações Opcionais do Lego</span>
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Certificação:</span> @* Lego *@
+                            <input placeholder="Indique a certificação..." required @bind="Certificado" />
+                        </div>
+
+                        <div class="bocado">
+                            <span class="mini-titulo">Categoria:</span> @* Lego *@
+
+                            <select @bind="Categoria" disabled="@(!CategoriaHabilitada)">
+                                <option value="" hidden></option>
+                                @foreach (var cat in Categorias)
+                                {
+                                    <option value="@cat.Nome">@cat.Nome</option>
+                                }
+                            </select>
+
+                            <button @onclick="HabilitarCategoria">Mostrar Categorias</button>
+                        </div>
+
+                        <div class="baixo">
+                            <div class="bocado">
+                                <span class="mini-titulo">Dimensões:</span> @* Lego *@
+                                <input placeholder="Insira as dimensões do lego..." required @bind="Dimensoes" />
+                            </div>
+
+                            <div class="botoes">
+                                <button type="submit" id="criar">Criar</button>
+                                <button id="cancelar">Cancelar</button>
+                            </div>
+                            <span class="erro">@MensagemErro</span>
+                            <span class="sucesso">@MensagemSucesso</span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="barra-fundo">
+            <BarraFundo />
+        </div>
+    </div>
+</body>
+
+@code {
+    private string Titulo { get; set; }
+    private float PrecoBase { get; set; }
+    private DateTime DataInicio { get; set; }
+    private DateTime DataTermino { get; set; }
+    private string Descricao { get; set; }
+
+    // Lego
+    private string Nome { get; set; }
+    private string DescricaoLego { get; set; }
+    private int NumeroSerie { get; set; }
+    private string Estado { get; set; }
+    private int AnoLancamento { get; set; }
+    private int NumeroPecas { get; set; }
+    private int NumeroMinifiguras { get; set; }
+    private int IdadeRecomendada { get; set; }
+    private string Imagem { get; set; } //onde vamos guardar o path das imagens que forem uploaded
+    private string Certificado { get; set; }
+    private string Categoria { get; set; }
+    private string Dimensoes { get; set; }
+
+    private string MensagemErro { get; set; }
+    private string MensagemSucesso { get; set; }
+    private IBrowserFile? selectedFile;
+    
+    private bool CategoriaHabilitada { get; set; } = false;
+
+    
+    private List<Categoria> Categorias { get; set; } = new List<Categoria>();
+
+    private async Task HabilitarCategoria()
+    {
+        // Carregue as categorias apenas se ainda não foram carregadas
+        if (Categorias.Count == 0)
+        {
+            Categorias = await categoria.GetCategorias();
+        }
+
+        CategoriaHabilitada = true;
+    }
+    
+    private async Task HandleFileUpload(InputFileChangeEventArgs e)
+    {
+        var file = e.GetMultipleFiles().FirstOrDefault();
+
+        if (file != null)
+        {
+            try
+            {
+                // Gere um nome de arquivo único usando um prefixo, um identificador exclusivo e a extensão do arquivo
+                string uniqueFileName = Guid.NewGuid().ToString() + "_" + file.Name;
+
+                // Combine o caminho da pasta de destino com o nome do arquivo
+                string filePath = Path.Combine(WebHostEnvironment.WebRootPath, "Media", "uploads", uniqueFileName);
+
+                // Certifique-se de que a pasta de destino exista antes de salvar
+                if (!Directory.Exists(Path.GetDirectoryName(filePath)))
+                {
+                    Directory.CreateDirectory(Path.GetDirectoryName(filePath));
+                }
+
+                // Salve o arquivo no caminho gerado
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    await file.OpenReadStream().CopyToAsync(fileStream);
+                }
+
+                Imagem = "/Media/uploads/" + uniqueFileName; // Atualiza a propriedade Imagem com o caminho relativo
+
+                Console.WriteLine("Arquivo salvo com sucesso em: " + filePath);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro ao salvar o arquivo: " + ex.Message);
+                // Lidar com o erro conforme necessário
+            }
+        }
+        else
+        {
+            // Caso nenhum arquivo seja selecionado
+            // Você pode exibir uma mensagem ou tomar a ação apropriada aqui
+            Console.WriteLine("Nenhum arquivo selecionado.");
+        }
+    }
+
+
+    private async Task HandleSubmit()
+    {
+        // Obter o Id da categoria pelo nome
+        Categoria categoriaObtida = await categoria.GetCategoriaByName(Categoria);
+        int vendedorID = await utilizadores.GetIdByUsername(EstadoSite.loged_user);
+        var inputFileChangeEventArgs = new InputFileChangeEventArgs(new[] { selectedFile });
+        await HandleFileUpload(inputFileChangeEventArgs);
+        Console.WriteLine("0");
+
+
+        if (categoriaObtida != null)
+        {
+            Console.WriteLine("Erro1");
+            // Cria o Lego
+            int legoId = await lego.InsertLegoAndReturnId(new Lego
+                {
+                    Nome = Nome,
+                    SerialNumber = NumeroSerie,
+                    Estado = Estado,
+                    AnoDeLancamento = AnoLancamento,
+                    NumeroDePecas = NumeroPecas,
+                    IdadeRecomendada = IdadeRecomendada,
+                    Imagem = Imagem,
+                    Descricao = Descricao,
+                    NumeroDeMiniFiguras = NumeroMinifiguras,
+                    Certificacao = Certificado,
+                    Dimensoes = Dimensoes,
+                    CategoriaId = categoriaObtida.Id
+                });
+            Console.WriteLine($"LegoId: {legoId}");
+
+            if (legoId > 0)
+            {
+
+                string formatoDesejado = "yyyy-MM-dd HH:mm:ss";
+                //string dataInicioFormatada = DataInicio.ToString(formatoDesejado);
+                string dataTerminoFormatada = DataTermino.ToString(formatoDesejado);
+
+
+                //DateTime dataInicioFinal = DateTime.ParseExact(dataInicioFormatada, formatoDesejado, CultureInfo.InvariantCulture);
+                DateTime dataTerminoFinal = DateTime.ParseExact(dataTerminoFormatada, formatoDesejado, CultureInfo.InvariantCulture);
+
+                Console.WriteLine("Erro2");
+                DataLayer.Leilao novoLeilao = new DataLayer.Leilao
+                    {
+                        Titulo = Titulo,
+                        DataInicio = DateTime.Now,
+                        DataFiM = dataTerminoFinal,
+                        PrecoBase = PrecoBase,
+                        PrecoAtual = PrecoBase,  
+                        Descricao = Descricao,
+                        LegoId = legoId,
+                        Estado = "Decorrer",
+                        VendedorId = vendedorID
+
+                    };
+                var properties = novoLeilao.GetType().GetProperties();
+
+                foreach (var property in properties)
+                {
+                    var value = property.GetValue(novoLeilao);
+                    Console.WriteLine($"{property.Name}: {value}");
+                }
+
+                bool sucesso = await leiloes.PutLeilao(novoLeilao);
+
+                if (sucesso)
+                {
+                    MensagemSucesso = "Leilão adicionado com sucesso!";
+                    Console.WriteLine("Leilão adicionado com sucesso!");
+                    NavigationManager.NavigateTo("/paginaleiloes", forceLoad: true);
+                }
+            }
+            else
+            {
+                MensagemErro = "Ocorreu um erro ao criar o seu leilão, verifique os seus dados!";
+                Console.WriteLine("Erro ao adicionar o leilão. Verifique os dados!");
+            }
+        }
+        else
+        {
+            MensagemErro = "Ocorreu um erro ao criar o Lego, verifique os seus dados!";
+            Console.WriteLine("Erro ao adicionar o Lego. Verifique os dados!");
+        }
+    }
+}
+}

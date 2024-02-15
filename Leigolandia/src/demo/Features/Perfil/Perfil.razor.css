@@ -1,0 +1,362 @@
+﻿.pagina {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.barra-topo {
+    background: #0D3B66;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.perfil {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.barra-lateral {
+    width: 20%;
+    height: 100%;
+    background: #0D3B66;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagem-perfil {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 1rem;
+}
+
+#n {
+    margin-top: 0.3rem;
+}
+
+#nom {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lista-info {
+    width: 100%;
+    height: 100%;
+    margin-top: 3.5rem;
+}
+
+.opcao {
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1.3rem;
+}
+
+#informacoes-titulo {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.last-options {
+    margin-top: auto;
+    margin-bottom: 1.2rem;
+    display: flex;
+    font-size: 1.05rem;
+}
+
+#terminar {
+    margin-left: 0.8rem;
+}
+
+#eliminar {
+    margin-right: 0.8rem;
+}
+
+/* ------------ Dropdown Menu ------------------------*/
+
+#historicoLeiloes-titulo {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.primary-navigation {
+    display: block;
+    margin-top: 1rem;
+}
+
+.primary-navigation ul {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.primary-navigation ul li {
+     list-style: none;
+     display: inline-block;
+     position: relative;
+     text-decoration: none;
+     font-family: 'Montserrat', sans-serif;
+     
+     position: relative;
+ }
+
+.primary-navigation ul li ul span {
+    color: black;
+}
+
+.primary-navigation li:hover {
+    cursor: pointer;
+    }
+
+.primary-navigation ul li ul {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    padding-left: 0;
+    left: 100%;
+    top: 0;
+    background: white;
+    transition: opacity 0.3s ease;
+    padding: 0 30px;
+}
+
+.primary-navigation ul li:hover > ul,
+.primary-navigation ul li ul:hover {
+     visibility: visible;
+     opacity: 1;
+     display: block;
+     min-width: 250px;
+     text-align: left;
+     padding-top: 20px;
+     box-shadow: 0px 3px 5px -1px #ccc;
+ }      
+
+.primary-navigation ul li ul li {
+      clear: both;
+      width: 100%;
+      text-align: left;
+      margin-bottom: 20px;
+      border-style: none;
+ }
+
+.primary-navigation ul li ul li span:hover {
+      padding-left: 10px;
+      border-left: 2px solid black;
+      transition: all 0.3s ease;
+}
+
+.primary-navigation ul li ul li span {
+     transition: all 0.5s ease;
+     text-decoration: none;
+}
+
+/* ------------ Informações Pessoais -----------------*/
+
+.info-pess-item {
+    font-size: 1.2rem;
+}
+
+.thick {
+    font-weight: bold;
+    color: #0D3B66;
+}
+
+.frase {
+    font-weight: bold;
+    color: #0D3B66;
+    font-size: 1.5rem;
+    margin-left: 5rem;
+}
+
+.frase-container {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+#pess {
+    margin-top: 5rem;
+    font-weight: bold;
+    color: #0D3B66;
+    font-size: 1.5rem;
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+}
+
+.info-pess-item {
+    margin-left: 6rem;
+}
+
+.cont2 {
+    display: flex;
+}
+
+#nome {
+    margin-right: 7rem;
+}
+
+#telemovel {
+    margin-right: 4rem;
+}
+
+#nif {
+    margin-right: 7.5rem;
+}
+
+.bots {
+    margin-left: 3rem;
+    display: flex;
+}
+
+.but {
+    border-radius: 15px;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    color: white;
+    background: orange;
+    border: none;
+    margin-left: 1rem;
+}
+
+.bot-terminar {
+    border: none;
+    background: #0D3B66;
+    color: white;
+}
+
+.editavel {
+    border-radius: 10px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    height: 1.8rem;
+}
+
+/* ------------ Estatisticas -----------------*/
+
+#estatisticas {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.bloco {
+    background: #edede9;
+    width: 25rem;
+    height: 25rem;
+    margin-top: 8rem;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#bloco1 {
+    margin-left: 7rem;
+}
+
+#bloco2 {
+    margin-left: 10rem;
+}
+
+.topo {
+    width: 100%;
+    height: 19%;
+    background: #0D3B66;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.titulo-bloco {
+    font-size: 1.5rem;
+    font-weight: 650;
+}
+
+.info-estatisticas {
+    width: 100%;
+    height: 100%;
+}
+
+.parte1 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2.5rem;
+    margin-left: 3rem;
+}
+
+.parte2 {
+    margin-left: 3rem;
+}
+
+.titulo-estatisticas-first {
+    display: block;
+    margin-top: 2.7rem;
+}
+
+.titulo-estatisticas-second {
+    display: block;
+    margin-top: 1rem;
+}
+
+.titulo-estatisticas {
+    font-size: 1.2rem;
+    font-weight: 550;
+    display: block;
+}
+
+.estat-conteudo {
+    font-weight: 475;
+}
+
+/* ------------------------ Os meus leiloes ------------------------ */
+
+.lista {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+    margin-left: 7.5rem;
+}
+
+/* --------------------- Categoria ----------------------*/
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10rem;
+    margin-top: 10rem;
+}
+
+.co {
+    display: flex;
+    margin-top: 1.5rem;
+}
+
+.t {
+    font-size: 1.3rem;
+}
+
+.valor-categoria {
+    border-radius: 10px;
+}
+
+.botao-licitar {
+    margin-left: 2rem;
+    border-radius: 15px;
+    border: none;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    padding: 0.35rem 0.8rem 0.35rem 0.8rem;
+}

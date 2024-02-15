@@ -1,0 +1,67 @@
+﻿body {
+    overflow-x: hidden;
+}
+
+.pagina-principal {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.barra-topo {
+    background: #0D3B66;
+    width: 100%;
+    z-index: 1;
+    height: 5rem;
+}
+
+.pesquisa {
+    display: flex;
+    margin-top: 3rem;
+    margin-bottom: -1rem;
+}
+
+.botao {
+    width: 3rem;
+    background: #023e8a;
+    border: none;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.barra-pesquisa {
+    width: 25rem;
+    height: 2rem;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-color: black;
+    border-right: none;
+}
+
+.barra-pesquisa::placeholder {
+    padding-left: 1rem;
+}
+
+.lista {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.bloco {
+    display: flex;
+    margin-top: 4rem;
+    align-items: center;
+}
+
+.bloco > * {
+    margin-right: 6rem;
+}
+
+.bloco > *:last-child {
+    margin-right: 0;
+}

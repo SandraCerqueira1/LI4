@@ -1,0 +1,142 @@
+﻿.pagina-principal {
+    width: 100vw;
+    height: 160vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100vw;
+    height: 160vh;
+    opacity: 0.3;
+}
+
+.barra-topo {
+    margin-bottom: auto;
+    background: #0D3B66;
+    width: 100%;
+    z-index: 2;
+    height: 5rem;
+}
+
+.barra-fundo {
+    z-index: 2;
+    margin-top: auto;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.fundo {
+    z-index: 2;
+    margin-top: -5rem;
+    width: 70%;
+    height: 75%;
+    border-radius: 15px;
+    border: 2px solid #0D3B66;
+}
+
+.barra {
+    background: #0D3B66;
+    height: 12%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.titulo {
+    display: flex;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    padding-top: 1.6rem;
+    font-size: 2.3rem;
+}
+
+.conteudo {
+    background: white;
+    height: 88%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-top: 0.6rem;
+}
+
+.dados {
+    display: flex;
+    flex-direction: column;
+}
+
+.bocado {
+    display: flex;
+    margin-left: 2rem;
+    margin-top: 0.4rem;
+}
+
+.linhas {
+    background: #14213d;
+    width: 100%;
+    height: 0.05rem;
+    height: 0.09rem;
+}
+
+.mini-titulo {
+    font-weight: bold;
+    font-size: 1.05rem;
+    padding-right: 0.8rem;
+}
+
+.titulo-medio-container {
+    margin-top: 1rem;
+    display: flex;
+    margin-left: 1rem;
+}
+
+.titulo-medio {
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 40rem;
+}
+
+input::placeholder {
+    padding-left: 0.5rem;
+}
+
+.baixo {
+    display: flex;
+}
+
+.botoes {
+    margin-left: 5rem;
+}
+
+#criar {
+    margin-right: 1rem;
+    border-radius: 15px;
+    width: 4rem;
+    height: 2rem;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 1.15rem;
+    border: none;
+}
+
+#cancelar {
+    border-radius: 15px;
+    width: 5.8rem;
+    height: 2rem;
+    background: red;
+    color: white;
+    font-weight: bold;
+    font-size: 1.15rem;
+    border: none;
+}

@@ -1,0 +1,75 @@
+﻿@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@using DataLayer
+@inject ILeilaoRepository leilao
+@inject EstadoSite estadoSite
+
+@inherits LayoutComponentBase
+
+
+<div class="preview-leiloes-container">
+    @if (LeiloesADecorrer != null && LeiloesADecorrer.Any())
+    {
+        for (int j = 0; j < LeiloesADecorrer.Count; j += 3)
+        {
+            <div class="row">
+                @for (int i = 0; i < 3 && j + i < LeiloesADecorrer.Count; i++)
+                {
+                    var leilao = LeiloesADecorrer[j + i];
+                    <div class="col-md-4 mb-3">
+                        <div class="preview-leilao">
+                            <a href="/leilao/@leilao.Id" id="link" style="text-decoration: none; color: white;">
+                                <img class="imagem-leilao" src="@leilao.Imagem" />
+                                <div class="descricao-leilao">
+                                    <div id="bloco-vertical">
+                                        <span class="nome-produto">@leilao.Titulo</span>
+                                        <span class="licitacao-atual">
+                                            Licitação Atual: <span class="bold">@leilao.PrecoAtual</span>
+                                            <span class="bold">€</span>
+                                        </span>
+                                        <span class="tempo-restante">
+                                            Falta: <span class="bold">@CalcularTempoRestante(leilao.DataFiM)</span>
+                                        </span>
+                                    </div>
+                                    
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    }
+    else
+    {
+        <p>Nenhum leilão encontrado.</p>
+    }
+</div>
+
+
+@code {
+    [Parameter]
+    public List<LeilaoViewModel> LeiloesADecorrer { get; set; } = new List<LeilaoViewModel>();
+
+
+    private string CalcularTempoRestante(DateTime dataFim)
+    {
+        // Obtém a diferença entre a data de término e a data atual
+        TimeSpan diferenca = dataFim - DateTime.Now;
+
+        // Se a diferença for negativa, o leilão já terminou
+        if (diferenca.TotalSeconds < 0)
+        {
+            return "Leilão encerrado";
+        }
+
+        // Extrai os componentes de tempo da diferença
+        int dias = (int)diferenca.TotalDays;
+        int horas = diferenca.Hours;
+        int minutos = diferenca.Minutes;
+
+        // Formata a string de tempo restante
+        return $"{dias} dias, {horas} horas, {minutos} minutos";
+    }
+
+}

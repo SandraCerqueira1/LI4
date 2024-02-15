@@ -1,0 +1,134 @@
+﻿.pagina-principal {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.painel {
+    filter: blur(2px);
+    max-width: 33.33%;
+    height: auto;
+    object-fit: cover;
+    flex: 1;
+    z-index: 1;
+}
+
+.imagens {
+    position: absolute;
+    top: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+}
+
+.bloco-fundo {
+    width: 45%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    border-radius: 20px;
+    z-index: 10;
+    margin: 10rem auto;
+}
+
+#regForm {
+    font-family: 'Montserrat', sans-serif;
+    width: 25%;
+    min-width: 300px;
+    z-index: 10;
+}
+
+.criar-conta {
+    text-align: center;
+    font-size: 3.5rem;
+    color: white;
+    z-index: 10;
+    margin-bottom: 2rem;
+}
+
+.sub-titulo {
+    color: white;
+}
+
+#username, #email, #morada {
+    margin-top: 1.5rem;
+}
+
+input {
+    border-radius: 25px;
+    padding: 0.7rem;
+    width: 100%;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    z-index: 10;
+}
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid {
+    background-color: #ffdddd;
+    z-index: 10;
+}
+
+/* Hide all steps by default:*/
+.tab {
+    display: none;
+    z-index: 10;
+}
+
+button {
+    border-radius: 25px;
+    background-color: #04AA6D;
+    color: #ffffff;
+    border: none;
+    padding: 0.7rem 1rem;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    z-index: 10;
+}
+
+button:hover {
+    opacity: 0.8;
+    z-index: 10;
+}
+
+#prevBtn {
+    background-color: #bbbbbb;
+    z-index: 10;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+    height: 1rem;
+    width: 1rem;
+    margin: 0 0.1px;
+    background-color: white;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+    z-index: 10;
+}
+
+.step.active {
+    opacity: 1;
+    z-index: 10;
+}
+
+ /*Mark the steps that are finished and valid: */
+.step.finish {
+    background-color: #04AA6D;
+    z-index: 10;
+}
+
+.erro {
+    font-size: 0.8rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0.5rem;
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+    color: red;
+}

@@ -1,0 +1,119 @@
+.pagina-login[b-nuw0mfh9ba] {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container[b-nuw0mfh9ba] {
+    flex: 47%;
+    box-sizing: border-box;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#imagem[b-nuw0mfh9ba] {
+    display: flex;
+    align-items: center;
+    flex: 53%;
+    height: 100vh;
+}
+
+#fundo[b-nuw0mfh9ba] {
+    width: 100%;
+    height: 93%;
+    border-radius: 20px;
+    margin-left: 5rem;
+}
+
+.texto[b-nuw0mfh9ba] {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 12rem;
+    margin-left: auto;
+}
+
+.texto-bem-vindo[b-nuw0mfh9ba] {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+}
+
+.leigolandia[b-nuw0mfh9ba] {
+    font-family: Agbalumo;
+}
+
+.texto-fazer-login[b-nuw0mfh9ba] {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.formulario[b-nuw0mfh9ba] {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    margin-left: 15rem;
+}
+
+.login[b-nuw0mfh9ba] {
+    width: 55%;
+    height: 2.2rem;
+    border-radius: 10px;
+    background-color: #ebeced;
+    border: none;
+    display: block;
+    text-indent: 3rem;
+}
+
+.login[b-nuw0mfh9ba]::placeholder {
+    color: #70798c;
+}
+
+#username[b-nuw0mfh9ba] {
+    background-image: url(/images/login-user.png);
+    background-repeat: no-repeat;
+    background-position: 0.8rem center;
+    background-size: 1.1rem;
+}
+
+#password[b-nuw0mfh9ba] {
+    margin-top: 1rem;
+    background-image: url(/images/login-password.png);
+    background-repeat: no-repeat;
+    background-position: 0.8rem center;
+    background-size: 1.2rem;
+}
+
+input:focus[b-nuw0mfh9ba] {
+    outline: none;
+}
+
+.registar[b-nuw0mfh9ba] {
+    font-size: 0.8rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0.5rem;
+    margin-top: 0.6rem;
+}
+
+.entrar[b-nuw0mfh9ba] {
+    margin-top: 1rem;
+    padding: 0.4rem 0.8rem 0.4rem 0.8rem;
+    width: fit-content;
+    border: none;
+    border-radius: 6px;
+    background-color: #0353a4;
+    color: white;
+}
+
+.barra-fundo[b-nuw0mfh9ba] {
+    position: absolute;
+    bottom: 0;
+}
+
+.erro[b-nuw0mfh9ba] {
+    font-size: 0.8rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0.5rem;
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+    color: red;
+}

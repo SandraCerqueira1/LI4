@@ -1,0 +1,150 @@
+.barra-fundo[b-igzt0rqq6f] {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.imagem-perfil[b-igzt0rqq6f] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0.7rem 2rem 0.4rem;
+}
+
+
+#perfil[b-igzt0rqq6f] {
+    width: 3rem;
+}
+
+.imagem-logo[b-igzt0rqq6f] {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+#logo[b-igzt0rqq6f] {
+    width: 3rem;
+}
+
+#leigolandia[b-igzt0rqq6f] {
+    margin-left: 0.8rem;
+    margin-top: 0.8rem;
+    font-family: Agbalumo;
+    color: white;
+    font-size: 2rem;
+}
+
+.link-barra[b-igzt0rqq6f] {
+    margin-top: 1.8rem;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    position: relative;
+}
+
+.link-barra[b-igzt0rqq6f]:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+ }
+
+.link-barra:hover[b-igzt0rqq6f]:after {
+     transform: scaleX(1);
+     transform-origin: bottom left;
+ }
+
+#link-leigolandia[b-igzt0rqq6f] {
+    text-decoration: none;
+}
+
+#link-sobre-nos[b-igzt0rqq6f] {
+    margin-left: 5rem;
+}
+
+#link-leiloes[b-igzt0rqq6f] {
+    margin-left: 4rem;
+}
+
+.primary-navigation[b-igzt0rqq6f] {
+    display: block;
+}
+
+.primary-navigation ul[b-igzt0rqq6f] {
+    margin-bottom: 0;
+}
+
+.primary-navigation ul li[b-igzt0rqq6f] {
+     list-style: none;
+     display: inline-block;
+     position: relative;
+     text-decoration: none;
+     font-family: 'Montserrat', sans-serif;
+     
+     position: relative;
+ }
+
+.primary-navigation ul li ul a[b-igzt0rqq6f] {
+    color: black;
+}
+
+.primary-navigation li:hover[b-igzt0rqq6f] {
+    cursor: pointer;
+    }
+
+.primary-navigation ul li ul[b-igzt0rqq6f] {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    padding-left: 0;
+    left: 0;
+    background: white;
+    transition: opacity 0.3s ease;
+    padding: 0 30px;
+}
+
+.primary-navigation ul li:hover > ul[b-igzt0rqq6f],
+.primary-navigation ul li ul:hover[b-igzt0rqq6f] {
+     visibility: visible;
+     opacity: 1;
+     display: block;
+     min-width: 250px;
+     text-align: left;
+     padding-top: 20px;
+     box-shadow: 0px 3px 5px -1px #ccc;
+ }      
+
+.primary-navigation ul li ul li[b-igzt0rqq6f] {
+      clear: both;
+      width: 100%;
+      text-align: left;
+      margin-bottom: 20px;
+      border-style: none;
+ }
+
+.primary-navigation ul li ul li a:hover[b-igzt0rqq6f] {
+      padding-left: 10px;
+      border-left: 2px solid black;
+      transition: all 0.3s ease;
+}
+
+.primary-navigation ul li ul li a[b-igzt0rqq6f] {
+     transition: all 0.5s ease;
+     text-decoration: none;
+}
+
+#link-categorias[b-igzt0rqq6f] {
+    position: relative;
+    margin-left: 4rem;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}

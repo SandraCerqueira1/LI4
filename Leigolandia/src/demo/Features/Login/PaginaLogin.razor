@@ -1,0 +1,110 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@inject IUtilizadorRepository utilizador
+@inject ILeilaoRepository leilao
+@inject EstadoSite EstadoSite;
+@inject IJSRuntime JSRuntime
+@using DataLayer
+<PageTitle>Leigolândia</PageTitle>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">
+
+<div class="pagina-login">
+
+    <div class="container" id="imagem">
+        <img src="./images/rua.jfif" id="fundo"/>
+    </div>
+
+    <div class="container">
+        <div class="texto">
+            <span class="texto-bem-vindo">Bem-vindo à <span class="leigolandia">LEIgolândia</span></span>
+            <span class="texto-fazer-login">Faça login para não perder nenhum leilão!</span>
+        </div>
+
+        <form @onsubmit="HandleSubmit" method="post" class="formulario">
+            <input type="text" class="login" id="username" placeholder="Username" required @bind="Username">
+
+            <input type="password" class="login" id="password" name="password" placeholder="Password" required @bind="Password">
+
+            <span class="erro">@MensagemErro</span>
+
+            <span class="registar">Ainda não tem conta? Registe-se <NavLink href="/register" class="link-registar">aqui</NavLink></span>
+
+            <button type="submit" class="entrar">Entrar</button>
+        </form>
+    </div>
+
+</div>
+
+@code {
+    private string Username { get; set; }
+    private string Password { get; set; }
+
+    private string MensagemErro { get; set; }
+
+    List<LeilaoViewModel> LeiloesADecorrer;
+
+    protected override async Task OnInitializedAsync()
+    {
+        LeiloesADecorrer = await leilao.GetLeiloesADecorrerComImagem();
+
+        foreach (var leiloes in LeiloesADecorrer)
+        {
+            if (leiloes.DataFiM < DateTime.Now)
+            {
+                string novoEstado = "Terminado";
+                await leilao.UpdateEstado(leiloes.Id, novoEstado);
+            }
+        }
+    }
+
+    private async Task HandleSubmit()
+    {
+        bool utilizadorValido = await utilizador.ValidateCredentials(Username, Password);
+
+        if (utilizadorValido)
+        {
+            EstadoSite.loged_user = Username;
+            @*List<LeilaoViewModel> leiloesAgendados = await leilao.GetLeiloesAgendados();
+            EstadoSite.ListLeiloesAgendados = leiloesAgendados;
+            foreach (var leilao in leiloesAgendados)
+            {
+                Console.WriteLine($"ID: {leilao.Id}");
+                Console.WriteLine($"Título: {leilao.Titulo}");
+                Console.WriteLine($"Data de Início: {leilao.DataInicio}");
+                Console.WriteLine($"Data de Fim: {leilao.DataFiM}");
+                Console.WriteLine($"Preço Base: {leilao.PrecoBase}");
+                Console.WriteLine($"Preço Atual: {leilao.PrecoAtual}");
+                Console.WriteLine($"Descrição: {leilao.Descricao}");
+                Console.WriteLine($"Lego ID: {leilao.LegoId}");
+                Console.WriteLine($"Estado: {leilao.Estado}");
+                Console.WriteLine($"ID do Vendedor: {leilao.VendedorId}");
+
+                if (!string.IsNullOrEmpty(leilao.ImagemLego))
+                {
+                    Console.WriteLine($"Imagem do Lego: {leilao.ImagemLego}");
+                }
+                else
+                {
+                    Console.WriteLine("Imagem do Lego não disponível");
+                }
+            }
+            *@
+            NavigationManager.NavigateTo("/home");
+            await JSRuntime.InvokeVoidAsync("location.reload", true);
+           // NavigationManager.NavigateTo("/home", forceLoad: true);
+          
+        }
+        else
+        {
+            MensagemErro = "Os dados inseridos não são válidos!";
+        }
+    }
+}

@@ -1,0 +1,86 @@
+﻿@using DataLayer
+@inject ICategoriasRepository categoria
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">
+
+<!-- ----------------------------------------------------------------------------------------------- -->
+<div class="barra-fundo">
+
+    <div class="imagem-logo">
+        <NavLink href="/home" style="text-decoration: none;">
+            <img src="./images/lego.png" id="logo" />
+        </NavLink>
+
+        <NavLink href="/home" style="text-decoration: none;" id="link-leigolandia">
+            <span id="leigolandia">LEIgolândia</span>
+        </NavLink>
+    </div>
+
+    <a href="#" class="link-barra" id="link-sobre-nos">Sobre Nós</a>
+
+
+    <div class="primary-navigation">
+        <ul>
+            <li>
+                <a href="#" class="link-barra" id="link-leiloes">Leilões &dtrif;</a>
+                <ul class="dropdown">
+                    <li><a href="/paginaleiloes" style="text-decoration: none;  color: black;">Leilões Disponíveis</a></li>
+                    <li><a href="/criarleilao" style="text-decoration: none;  color: black;">Criar um Leilão</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="primary-navigation">
+        <ul>
+            <li>
+                <a href="#" class="link-barra" id="link-leiloes">Categorias &dtrif;</a>
+                <ul class="dropdown">
+                    @if (listaCategorias != null)
+                    {
+                        @foreach (var categoria in listaCategorias)
+                        {
+                            <li>
+                                <a href="/leilaoporcategoria/@categoria.Nome" style="text-decoration: none; color: black;">
+                                    @categoria.Nome
+                                </a>
+                            </li>
+                        }
+                    }
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+<div class="imagem-perfil">
+    <NavLink href="/perfil">
+        <img src="./images/perfil.png" id="perfil" />
+    </NavLink>
+</div>
+</div>
+<!-- ----------------------------------------------------------------------------------------------- -->
+
+<script>
+    function toggleBarra() {
+        var barra = document.getElementById('barra-categorias');
+        barra.style.display = (barra.style.display === 'none' || barra.style.display === '') ? 'block' : 'none';
+    }
+</script>
+
+<!-- ----------------------------------------------------------------------------------------------- -->
+@code {
+    List<Categoria> listaCategorias;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listaCategorias = await categoria.GetCategorias();
+    }
+
+
+    
+}

@@ -1,0 +1,551 @@
+﻿@page "/perfil"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@inject IUtilizadorRepository utilizador
+@inject EstadoSite EstadoSite;
+@inject ILeilaoRepository leiloes
+@inject ICategoriasRepository categoria
+@using DataLayer
+@using demo.Features.Shared
+@inject IJSRuntime JSRuntime
+@using System.Data.SqlClient
+@inject ILicitacaoRepository licitacao
+
+@if (Utilizador != null)
+{
+    <div class="pagina">
+        <div class="barra-topo">
+            <BarraTopo />
+        </div>
+
+        <div class="perfil">
+
+            <div class="barra-lateral">
+                <div class="imagem-perfil">
+                    <img src="./images/do-utilizador.png" />
+                </div>
+
+                <div id="n">
+                    <span id="nom">@Utilizador.Nome</span>
+                </div>
+
+                <div class="cont">
+                    <div class="lista-info">
+                        <div class="opcao" onclick="mostrarConteudo('informacoes')">
+                            <span class="opcao-titulo" id="informacoes-titulo">Informações Pessoais</span>
+                        </div>
+                        <div class="opcao" onclick="mostrarConteudo('estatisticas')">
+                            <span class="opcao-titulo" id="estatisticas-titulo">Estatísticas</span>
+                        </div>
+                        <div class="opcao" onclick="mostrarConteudo('meusLeiloes')">
+                            <span class="opcao-titulo" id="meusLeiloes-titulo">Os meus leilões</span>
+                        </div>
+                        <div class="opcao" onclick="mostrarConteudo('leiloesParticipar')">
+                            <span class="opcao-titulo" id="leiloesParticipar-titulo">Leilões a Participar</span>
+                        </div>
+
+                        <div class="primary-navigation">
+                            <ul>
+                                <li>
+                                    <span class="opcao" id="historicoLeiloes-titulo">Histórico de Leilões &dtrif;</span>
+                                    <ul class="dropdown">
+                                        <li><span onclick="mostrarConteudo('historicoLeiloesCriados')">Criados</span></li>
+                                        <li><span onclick="mostrarConteudo('historicoLeiloesParticipados')">Participados</span></li>
+                                        <li><span onclick="mostrarConteudo('historicoLeiloesGanhos')">Ganhos</span></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="opcao" onclick="mostrarConteudo('categoria')">
+                            @if (Utilizador.IsAdministrador == 1)
+                            {
+                                <span class="opcao-titulo" id="categoria-titulo">Adicionar categoria</span>
+                            }
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="last-options">
+
+                    <button class="bot-terminar" @onclick="Eliminar">
+                        <span class="opcao-titulo-last" id="eliminar">Eliminar Conta</span>
+                    </button>
+                    @if (mostrarMensagemExclusao)
+                    {
+                        <div class="mensagem-exclusao">
+                            <p>A sua conta foi excluída com sucesso.</p>
+                        </div>
+                    }
+                    <div class="opcao-last">
+                        <span class="opcao-titulo-last" id="barra">|</span>
+                    </div>
+                    <button class="bot-terminar" @onclick="TerminarSessao">
+                        <span class="opcao-titulo-last" id="terminar">Terminar Sessão</span>
+                    </button>
+
+
+                </div>
+            </div>
+
+            <div class="perfil-conteudo">
+                <div id="informacoes" class="secao">
+                    <div class="in-pessoais">
+                        <div id="pess">
+                            <span>
+                                Dados Pessoais:
+                            </span>
+                        </div>
+
+                        <div class="cont2">
+                            <div class="info-pess-item" id="nome">
+                                <span class="thick">Nome:</span>
+                                @if (isEditing)
+                                {
+                                    <!-- Campo editável durante a edição -->
+                                    <input type="text" class="editavel" id="nomeEditado" @bind="Nome" />
+                                }
+                                else
+                                {
+                                    <!-- Campo não editável -->
+                                    <span class="mini" id="nomeValor">@Utilizador.Nome</span>
+                                }
+                            </div>
+                            <div class="info-pess-item" id="username">
+                                <span class="thick">Username:</span>
+                                <span class="mini" id="usernameValor">@Utilizador.Username</span>
+                            </div>
+
+                        </div>
+                        <div class="info-pess-item" id="dataNascimento">
+                            <span class="thick">Data de Nascimento:</span>
+                            @if (isEditing)
+                            {
+                                <!-- Campo editável durante a edição -->
+                                <input type="text" class="editavel" id="dataNascimentoEditado" @bind="DataDeNascimento" />
+                            }
+                            else
+                            {
+                                <!-- Campo não editável -->
+                                <span class="mini" id="dataNascimentoValor">@Utilizador.DataDeNascimento.ToShortDateString()</span>
+                            }
+                        </div>
+                        <div class="info-pess-item" id="password">
+                            @if (isEditing)
+                            {
+                                <!-- Campo editável durante a edição -->
+                                <span class="thick">Password:</span>
+                                <input class="editavel" id="passwordEditado" @bind="Password" />
+                            }
+                        </div>
+                    </div>
+
+                    <div class="contactos">
+                        <div class="frase-container">
+                            <span class="frase">
+                                Contactos:
+                            </span>
+                        </div>
+
+                        <div class="cont2">
+                            <div class="info-pess-item" id="telemovel">
+                                <span class="thick">Telemovel:</span>
+                                @if (isEditing)
+                                {
+                                    <!-- Campo editável durante a edição -->
+                                    <input type="text" class="editavel" id="telemovelEditado" @bind="Telemovel" />
+                                }
+                                else
+                                {
+                                    <!-- Campo não editável -->
+                                    <span class="mini" id="telemovelValor">@Utilizador.Telemovel</span>
+                                }
+                            </div>
+                            <div class="info-pess-item" id="email">
+                                <span class="thick">Email:</span>
+                                @if (isEditing)
+                                {
+                                    <!-- Campo editável durante a edição -->
+                                    <input type="text" class="editavel" id="emailEditado" @bind="Email" />
+                                }
+                                else
+                                {
+                                    <!-- Campo não editável -->
+                                    <span class="mini" id="emailValor" contenteditable="@isEditing">@Utilizador.Email</span>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dados-faturacao">
+                        <div class="frase-container">
+                            <span class="frase">
+                                Dados de Faturação:
+                            </span>
+                        </div>
+
+                        <div class="cont2">
+                            <div class="info-pess-item" id="nif">
+                                <span class="thick">NIF:</span>
+                                @if (isEditing)
+                                {
+                                    <!-- Campo editável durante a edição -->
+                                    <input type="text" class="editavel" id="nifEditado" @bind="Nif" />
+                                }
+                                else
+                                {
+                                    <!-- Campo não editável -->
+                                    <span class="mini" id="nifValor" contenteditable="@isEditing">@Utilizador.Nif</span>
+                                }
+                            </div>
+                            <div class="info-pess-item" id="morada">
+                                <span class="thick">Morada:</span>
+                                @if (isEditing)
+                                {
+                                    <!-- Campo editável durante a edição -->
+                                    <input type="text" class="editavel" id="moradaEditada" @bind="Morada" />
+                                }
+                                else
+                                {
+                                    <!-- Campo não editável -->
+                                    <span class="mini" id="moradaValor" contenteditable="@isEditing">@Utilizador.Morada</span>
+                                }
+                            </div>
+
+
+                            <div class="bots">
+                                <button class="but" id="editarBtn" @onclick="IniciarEdicao" style="display: @(!isEditing ? "block" : "none")">Editar</button>
+                                <button class="but" id="salvarBtn" @onclick="SalvarEdicao" style="display: @(isEditing ? "block" : "none")">Salvar</button>
+                                <button class="but" id="cancelarBtn" @onclick="CancelarEdicao" style="display: @(isEditing ? "block" : "none")">Cancelar</button>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div id="estatisticas" class="secao" style="display: none;">
+                    <div class="bloco" id="bloco1">
+                        <div class="topo">
+                            <span class="titulo-bloco">
+                                Estatísticas Vendedor
+                            </span>
+                        </div>
+
+                        <div class="info-estatisticas">
+                            <div class="parte1">
+                                <span class="titulo-estatisticas titulo-estatisticas-first">
+                                    Lucro Total:
+                                    <span class="estat-conteudo">@lucroTotal €</span>
+                                </span>
+                                <span class="titulo-estatisticas titulo-estatisticas-second">
+                                    Lucro Médio:
+                                    <span class="estat-conteudo">@lucroMedio €</span>
+                                </span>
+                            </div>
+
+                            <div class="parte2">
+                                <span class="titulo-estatisticas titulo-estatisticas-second">
+                                    Leilões Criados:
+                                    <span class="estat-conteudo">@leiloesCriados</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bloco" id="bloco2">
+                        <div class="topo">
+                            <span class="titulo-bloco">
+                                Estatísticas Comprador
+                            </span>
+                        </div>
+
+                        <div class="info-estatisticas">
+                            <div class="parte1">
+                                <span class="titulo-estatisticas titulo-estatisticas-first">
+                                    Leilões Participados:
+                                    <span class="estat-conteudo">@leiloesParticipados</span>
+                                </span>
+                                <span class="titulo-estatisticas titulo-estatisticas-second">
+                                    Leilões Ganhos:
+                                    <span class="estat-conteudo">@leiloesGanhos</span>
+                                </span>
+                            </div>
+
+                            <div class="parte2">
+                                <span class="titulo-estatisticas">
+                                    Gasto Médio:
+                                    <span class="estat-conteudo">@gastoMedio €</span>
+                                </span>
+                                <span class="titulo-estatisticas titulo-estatisticas-second">
+                                    Total Gasto:
+                                    <span class="estat-conteudo">@gastoTotal €</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="categoria" class="secao" style="display: none;">
+
+                    <form @onsubmit="HandleSubmit" method="post" class="formulario">
+                        <span class="t">Insira a nova categoria:</span>
+                        <div class="co">
+                            <input type="text" class="valor-categoria" placeholder="Insira a categoria" @bind="NovaCategoria" />
+                            <span class="erro">@MensagemSucesso</span>
+                            <span class="erro">@MensagemErro</span>
+                            <button type="submit" class="botao-licitar">Adicionar</button>
+                        </div>
+                    </form>
+
+                </div>
+
+                <div id="meusLeiloes" class="secao" style="display: none;">
+                    <div class="lista">
+                        <PreviewLeilao LeiloesADecorrer="@LeiloesDoUserADecorrer" />
+                    </div>
+                </div>
+
+                <div id="leiloesParticipar" class="secao" style="display: none;">
+                    <div class="lista">
+                        <PreviewLeilao LeiloesADecorrer="@LeiloesDoUserParticipar" />
+                    </div>
+                </div>
+
+                <div id="historicoLeiloesGanhos" class="secao" style="display: none;">
+                    <div class="lista">
+                        <PreviewLeilao LeiloesADecorrer="@LeiloesGanhosPeloUser" />
+                    </div>
+                </div>
+
+                <div id="historicoLeiloesParticipados" class="secao" style="display: none;">
+                    <div class="lista">
+                        <PreviewLeilao LeiloesADecorrer="@LeiloesParticipadosDoUser" />
+                    </div>
+                </div>
+
+                <div id="historicoLeiloesCriados" class="secao" style="display: none;">
+                    <div class="lista">
+                        <PreviewLeilao LeiloesADecorrer="@LeiloesCriadosPeloUserTerminados" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+}
+else
+{
+    <p>Utilizador não encontrado.</p>
+}
+
+
+<script>
+    function mostrarConteudo(id) {
+        // Oculta todos os conteúdos
+        document.querySelectorAll('.secao').forEach(el => el.style.display = 'none');
+
+        // Exibe o conteúdo correspondente ao ID
+        const conteudo = document.getElementById(id);
+        if (conteudo) {
+            conteudo.style.display = 'flex';
+            if (id === 'informacoes') {
+                conteudo.style.flexDirection = 'column';
+            } else {
+                conteudo.style.flexDirection = 'row';
+            }
+        }
+
+        // Remove o estilo negrito e sublinhado de todas as opções
+        document.querySelectorAll('.opcao-titulo').forEach(op => {
+            op.style.fontWeight = 'normal';
+            op.style.textDecoration = 'none';
+        });
+
+        // Adiciona formatação negrito e sublinhado à opção clicada
+        const opcaoClicada = document.getElementById(`${id}-titulo`);
+        if (opcaoClicada) {
+            opcaoClicada.style.fontWeight = 'bold';
+            opcaoClicada.style.textDecoration = 'underline';
+        }
+    }
+</script>
+
+
+
+@code {
+    private Utilizador Utilizador { get; set; }
+    private bool isEditing = false; // Adiciona esta variável de estado
+
+
+    private string Username { get; set; }
+    private string Password { get; set; }
+    private string Nome { get; set; }
+    private DateTime DataDeNascimento { get; set; }
+    private string Email { get; set; }
+    private int Telemovel { get; set; }
+    private string Morada { get; set; }
+    private int Nif { get; set; }
+    private int IsAdministrador { get; set; }
+
+    private string NovaCategoria { get; set; }
+    private string MensagemSucesso { get; set; }
+    private string MensagemErro { get; set; }
+
+    List<LeilaoViewModel> LeiloesDoUserADecorrer;
+    List<LeilaoViewModel> LeiloesDoUserParticipar;
+    List<LeilaoViewModel> LeiloesParticipadosDoUser;
+    List<LeilaoViewModel> LeiloesCriadosPeloUserTerminados;
+    List<LeilaoViewModel> LeiloesGanhosPeloUser;
+
+    private bool mostrarMensagemExclusao = false;
+
+
+    private int leiloesParticipados { get; set; }
+    private int leiloesGanhos { get; set; }
+    private int gastoTotal { get; set; }
+    private decimal gastoMedio { get; set; }
+
+    private int lucroTotal { get; set; }
+    private decimal lucroMedio { get; set; }
+    private int leiloesCriados { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Obtém o utilizador pelo username
+        Utilizador = await utilizador.GetUtilizadorByUsername(EstadoSite.loged_user);
+        int vendedorID = await utilizador.GetIdByUsername(EstadoSite.loged_user);//id do user atual
+
+
+        LeiloesDoUserADecorrer = await leiloes.GetLeiloesADecorrerComImagemPorUtilizador(vendedorID);
+        LeiloesDoUserParticipar = await leiloes.GetLeiloesParticipadosPorUtilizador(vendedorID);
+        LeiloesParticipadosDoUser = await leiloes.GetLeiloesTerminadosParticipadosPorUtilizador(vendedorID);
+        LeiloesCriadosPeloUserTerminados = await leiloes.GetLeiloesATerminadosComImagemPorUtilizador(vendedorID);
+        LeiloesGanhosPeloUser = await leiloes.GetLeiloesGanhosPorUtilizador(vendedorID);
+
+        leiloesCriados = await leiloes.CountLeiloesByVendedorId(Utilizador.Id);
+        leiloesParticipados = await licitacao.CountLicitacoesByLicitadorId(Utilizador.Id);
+        leiloesGanhos = await licitacao.CountLeiloesGanhosPorUtilizador(Utilizador.Id);
+        lucroTotal = await leiloes.CalcularLucroTotalPorUtilizador(Utilizador.Id);
+        lucroMedio = await leiloes.CalcularLucroMedioPorUtilizador(Utilizador.Id);
+        gastoTotal = await leiloes.CalcularGastoTotalPorUtilizador(Utilizador.Id);
+        gastoMedio = await leiloes.CalcularGastoMedioPorUtilizador(Utilizador.Id);
+    }
+
+    private void IniciarEdicao()
+    {
+        isEditing = true;
+        InicializarValoresEditados();
+
+    }
+
+    private async void SalvarEdicao()
+    {
+        Utilizador.Username = Utilizador.Username;
+        Utilizador.Password = Password;
+        Utilizador.Nome = Nome;
+        Utilizador.DataDeNascimento = DataDeNascimento;
+        Utilizador.Email = Email;
+        Utilizador.Telemovel = Telemovel;
+        Utilizador.Morada = Morada;
+        Utilizador.Nif = Nif;
+        Utilizador.IsAdministrador = Utilizador.IsAdministrador;
+
+        bool sucesso = await utilizador.UpdateUtilizador(Utilizador);
+
+        if (sucesso)
+        {
+            // A operação foi bem-sucedida, pode realizar outras ações se necessário
+            Console.WriteLine("Utilizador atualizado com sucesso!");
+        }
+        else
+        {
+            // A operação falhou, pode tratar isso de acordo com sua lógica
+            Console.WriteLine("Falha ao atualizar utilizador.");
+        }
+
+
+
+        isEditing = false;
+    }
+
+    private void CancelarEdicao()
+    {
+        isEditing = false;
+        NavigationManager.NavigateTo("/perfil", forceLoad: true);
+    }
+
+    private void InicializarValoresEditados()
+    {
+        Username = Utilizador.Username;
+        Password = Utilizador.Password;
+        Nome = Utilizador.Nome;
+        DataDeNascimento = Utilizador.DataDeNascimento;
+        Email = Utilizador.Email;
+        Telemovel = Utilizador.Telemovel;
+        Morada = Utilizador.Morada;
+        Nif = Utilizador.Nif;
+        IsAdministrador = Utilizador.IsAdministrador;
+    }
+
+    private void TerminarSessao()
+    {
+        // Limpar a variável loged_user
+        EstadoSite.loged_user = "";
+
+        // Navegar para a página de login
+        NavigationManager.NavigateTo("/");
+    }
+    private async Task Eliminar()
+    {
+        int userID = await utilizador.GetIdByUsername(EstadoSite.loged_user);
+
+        try
+        {
+            // Chame a função DeleteUser do repositório
+            var isDeleted = await utilizador.DeleteUser(userID);
+
+            if (isDeleted)
+            {
+                mostrarMensagemExclusao = true;
+                await Task.Delay(3000);
+
+                NavigationManager.NavigateTo("/");
+            }
+            else
+            {
+                // A exclusão falhou por algum motivo não relacionado a restrições de chave estrangeira
+                Console.WriteLine("Erro ao excluir a conta do utilizador.");
+            }
+        }
+        catch (SqlException ex) when (ex.Number == 547)
+        {
+            // A exclusão falhou devido a uma restrição de chave estrangeira
+            // Adapte a mensagem conforme necessário
+            Console.WriteLine("Erro ao excluir a conta do utilizador. Existem licitações associadas em leilões em andamento.");
+        }
+        catch (Exception ex)
+        {
+            // Lidar com outras exceções, se necessário
+            Console.WriteLine($"Erro ao excluir a conta do utilizador: {ex.Message}");
+        }
+    }
+
+    private async Task HandleSubmit()
+    {
+        bool success = await categoria.InsertCategoria(NovaCategoria);
+        if (success)
+        {
+            MensagemSucesso = "Categoria adicionada com sucesso";
+            StateHasChanged();
+            NavigationManager.NavigateTo("/perfil", forceLoad: true);
+        }
+        else
+        {
+            MensagemErro = "Falha ao adicionar categoria";
+        }
+    }
+
+
+}

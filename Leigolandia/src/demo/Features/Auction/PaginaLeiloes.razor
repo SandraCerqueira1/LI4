@@ -1,0 +1,35 @@
+﻿@page "/paginaleiloes"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager;
+@using DataLayer
+@using demo.Features.Shared
+@inject ILeilaoRepository leiloes
+
+<PageTitle>Leigolândia</PageTitle>
+
+<div class="pagina-principal">
+    <div class="barra-topo">
+        <BarraTopo />
+    </div>
+
+    <div class="pesquisa">
+        <input placeholder="Procure um leilão..." class="barra-pesquisa" />
+        <button class="botao"><img src="./images/lupa.png" /></button>
+    </div>
+
+    <div class="lista">
+        
+        <PreviewLeilao LeiloesADecorrer="@LeiloesAgendados" />
+
+    </div>
+</div>
+
+@code {
+    List<LeilaoViewModel> LeiloesAgendados;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Obter os leilões agendados ao inicializar a página
+        LeiloesAgendados = await leiloes.GetLeiloesADecorrerComImagem();
+    }
+}
